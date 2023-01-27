@@ -1,0 +1,5133 @@
+-800 800 0 1600
+turn 90.000000
+trace 350.000000
+push
+turn 68.684502
+trace 192.500000
+push
+turn 41.286812
+trace 158.400009
+push
+turn 73.231148
+trace 86.900002
+push
+turn 53.737144
+trace 70.950005
+push
+turn 69.597610
+trace 38.500000
+push
+turn 53.955658
+trace 31.350000
+push
+turn 63.506729
+trace 17.050001
+pop
+push
+turn -10.000000
+trace 17.050001
+pop
+turn -53.207344
+trace 25.575001
+pop
+turn -72.573776
+trace 20.900000
+push
+turn 70.973999
+trace 11.000000
+pop
+turn -53.810997
+trace 16.500000
+pop
+push
+turn -10.000000
+trace 38.500000
+push
+turn 43.887600
+trace 31.350000
+push
+turn 74.735710
+trace 17.050001
+pop
+push
+turn -10.000000
+trace 17.050001
+pop
+turn -51.057617
+trace 25.575001
+pop
+push
+turn -10.000000
+trace 20.900000
+push
+turn 63.217415
+trace 11.000000
+pop
+turn -37.888882
+trace 16.500000
+pop
+turn -73.015076
+trace 20.900000
+push
+turn 65.680870
+trace 11.000000
+pop
+push
+turn -10.000000
+trace 11.000000
+pop
+turn -50.519882
+trace 16.500000
+pop
+turn -48.324383
+trace 57.750000
+push
+turn 39.323254
+trace 47.025002
+push
+turn 73.424637
+trace 25.850000
+pop
+push
+turn 10.000000
+trace 25.850000
+pop
+turn -52.637867
+trace 38.775002
+pop
+push
+turn -10.000000
+trace 31.350000
+push
+turn 60.911434
+trace 17.050001
+pop
+turn -46.871700
+trace 25.575001
+pop
+turn -63.315075
+trace 31.350000
+push
+turn 60.944397
+trace 17.050001
+pop
+push
+turn 10.000000
+trace 17.050001
+pop
+turn -38.171482
+trace 25.575001
+pop
+push
+turn 10.000000
+trace 47.299999
+push
+turn 73.046204
+trace 25.850000
+pop
+turn -37.387768
+trace 38.775002
+push
+turn 45.125431
+trace 31.350000
+push
+turn 56.975769
+trace 17.050001
+pop
+push
+turn 10.000000
+trace 17.050001
+pop
+turn -47.290413
+trace 25.575001
+pop
+push
+turn -10.000000
+trace 20.900000
+push
+turn 69.140450
+trace 11.000000
+pop
+turn -45.767540
+trace 16.500000
+pop
+turn -61.360668
+trace 20.900000
+push
+turn 71.967072
+trace 11.000000
+pop
+push
+turn 10.000000
+trace 11.000000
+pop
+turn -52.501144
+trace 16.500000
+pop
+turn -64.737846
+trace 47.299999
+push
+turn 65.162666
+trace 25.850000
+push
+turn 39.353161
+trace 20.625000
+push
+turn 56.754204
+trace 11.000000
+pop
+push
+turn 10.000000
+trace 11.000000
+pop
+turn -49.139225
+trace 16.500000
+pop
+push
+turn -10.000000
+trace 13.750000
+push
+turn 58.209328
+trace 7.150000
+pop
+push
+turn -10.000000
+trace 7.150000
+pop
+turn -36.094395
+trace 10.725000
+pop
+turn -73.433792
+trace 13.750000
+push
+turn 68.965881
+trace 7.150000
+pop
+push
+turn -10.000000
+trace 7.150000
+pop
+turn -40.704521
+trace 10.725000
+pop
+push
+turn -10.000000
+trace 25.850000
+push
+turn 38.021942
+trace 20.625000
+push
+turn 56.107212
+trace 11.000000
+pop
+turn -38.482162
+trace 16.500000
+pop
+push
+turn -10.000000
+trace 13.750000
+push
+turn 56.857357
+trace 7.150000
+pop
+turn -41.541946
+trace 10.725000
+pop
+turn -71.197395
+trace 13.750000
+push
+turn 71.851707
+trace 7.150000
+pop
+push
+turn 10.000000
+trace 7.150000
+pop
+turn -46.864986
+trace 10.725000
+pop
+turn -35.355846
+trace 38.775002
+push
+turn 51.313366
+trace 31.350000
+push
+turn 71.871239
+trace 17.050001
+pop
+turn -51.658222
+trace 25.575001
+pop
+push
+turn 10.000000
+trace 20.900000
+push
+turn 60.453049
+trace 11.000000
+pop
+turn -53.525345
+trace 16.500000
+pop
+turn -61.122623
+trace 20.900000
+push
+turn 71.381119
+trace 11.000000
+pop
+push
+turn -10.000000
+trace 11.000000
+pop
+turn -51.198006
+trace 16.500000
+pop
+turn -48.492844
+trace 130.350006
+push
+turn 54.454330
+trace 107.250000
+push
+turn 69.216133
+trace 58.850002
+push
+turn 47.599873
+trace 47.850002
+push
+turn 74.431137
+trace 25.850000
+pop
+push
+turn -10.000000
+trace 25.850000
+pop
+turn -45.317089
+trace 38.775002
+pop
+push
+turn -10.000000
+trace 31.900002
+push
+turn 55.667744
+trace 17.050001
+pop
+push
+turn -10.000000
+trace 17.050001
+pop
+turn -49.269844
+trace 25.575001
+pop
+turn -64.872124
+trace 31.900002
+push
+turn 74.879150
+trace 17.050001
+pop
+push
+turn -10.000000
+trace 17.050001
+pop
+turn -35.199593
+trace 25.575001
+pop
+push
+turn -10.000000
+trace 58.850002
+push
+turn 35.707420
+trace 47.850002
+push
+turn 57.407909
+trace 25.850000
+pop
+push
+turn -10.000000
+trace 25.850000
+pop
+turn -38.148899
+trace 38.775002
+pop
+turn -72.090363
+trace 31.900002
+push
+turn 55.339977
+trace 17.050001
+pop
+push
+turn -10.000000
+trace 17.050001
+pop
+turn -53.352001
+trace 25.575001
+pop
+turn -37.361523
+trace 88.275002
+push
+turn 54.727165
+trace 72.599998
+push
+turn 64.250160
+trace 39.600002
+pop
+push
+turn 10.000000
+trace 39.600002
+pop
+turn -46.921749
+trace 59.400002
+pop
+push
+turn -10.000000
+trace 48.400002
+push
+turn 72.590256
+trace 26.400002
+pop
+push
+turn 10.000000
+trace 26.400002
+pop
+turn -36.644337
+trace 39.600002
+pop
+turn -64.355141
+trace 48.400002
+push
+turn 64.333778
+trace 26.400002
+pop
+turn -48.204750
+trace 39.600002
+pop
+push
+turn -10.000000
+trace 71.500000
+push
+turn 68.218178
+trace 39.049999
+push
+turn 40.556808
+trace 32.174999
+push
+turn 72.823418
+trace 17.600000
+pop
+push
+turn -10.000000
+trace 17.600000
+pop
+turn -49.885098
+trace 26.400002
+pop
+push
+turn 10.000000
+trace 21.450001
+push
+turn 60.084995
+trace 11.550000
+pop
+push
+turn 10.000000
+trace 11.550000
+pop
+turn -50.034027
+trace 17.325001
+pop
+turn -56.513107
+trace 21.450001
+push
+turn 57.894375
+trace 11.550000
+pop
+push
+turn 10.000000
+trace 11.550000
+pop
+turn -44.053009
+trace 17.325001
+pop
+turn -40.291298
+trace 58.575001
+push
+turn 48.585621
+trace 47.850002
+push
+turn 55.738548
+trace 25.850000
+pop
+push
+turn -10.000000
+trace 25.850000
+pop
+turn -43.337658
+trace 38.775002
+pop
+push
+turn -10.000000
+trace 31.900002
+push
+turn 56.489914
+trace 17.050001
+pop
+push
+turn -10.000000
+trace 17.050001
+pop
+turn -41.386913
+trace 25.575001
+pop
+turn -64.948425
+trace 31.900002
+push
+turn 68.742485
+trace 17.050001
+pop
+push
+turn 10.000000
+trace 17.050001
+pop
+turn -39.727318
+trace 25.575001
+pop
+turn -57.520218
+trace 71.500000
+push
+turn 69.791100
+trace 39.049999
+push
+turn 48.165684
+trace 32.174999
+push
+turn 67.609634
+trace 17.600000
+pop
+push
+turn 10.000000
+trace 17.600000
+pop
+turn -50.716423
+trace 26.400002
+pop
+push
+turn -10.000000
+trace 21.450001
+push
+turn 70.529648
+trace 11.550000
+pop
+push
+turn 10.000000
+trace 11.550000
+pop
+turn -37.749107
+trace 17.325001
+pop
+turn -57.964569
+trace 21.450001
+push
+turn 73.692589
+trace 11.550000
+pop
+push
+turn 10.000000
+trace 11.550000
+pop
+turn -35.537125
+trace 17.325001
+pop
+turn -39.688255
+trace 58.575001
+push
+turn 44.680470
+trace 47.850002
+push
+turn 63.205208
+trace 25.850000
+pop
+push
+turn -10.000000
+trace 25.850000
+pop
+turn -53.828091
+trace 38.775002
+pop
+push
+turn 10.000000
+trace 31.900002
+push
+turn 71.796165
+trace 17.050001
+pop
+push
+turn -10.000000
+trace 17.050001
+pop
+turn -44.601124
+trace 25.575001
+pop
+turn -62.232277
+trace 31.900002
+push
+turn 56.469772
+trace 17.050001
+pop
+turn -37.642292
+trace 25.575001
+pop
+push
+turn 10.000000
+trace 105.600006
+push
+turn 63.600727
+trace 57.750000
+push
+turn 43.799095
+trace 47.025002
+push
+turn 62.410503
+trace 25.850000
+push
+turn 41.491898
+trace 20.625000
+push
+turn 68.775444
+trace 11.000000
+pop
+push
+turn 10.000000
+trace 11.000000
+pop
+turn -51.813869
+trace 16.500000
+pop
+turn -56.026031
+trace 13.750000
+push
+turn 63.675190
+trace 7.150000
+pop
+push
+turn -10.000000
+trace 7.150000
+pop
+turn -40.707573
+trace 10.725000
+pop
+push
+turn -10.000000
+trace 25.850000
+push
+turn 51.517838
+trace 20.625000
+push
+turn 56.653492
+trace 11.000000
+pop
+turn -35.169071
+trace 16.500000
+pop
+turn -72.428513
+trace 13.750000
+push
+turn 67.831810
+trace 7.150000
+pop
+push
+turn 10.000000
+trace 7.150000
+pop
+turn -47.299568
+trace 10.725000
+pop
+turn -51.429943
+trace 38.775002
+push
+turn 52.577442
+trace 31.350000
+push
+turn 70.080414
+trace 17.050001
+pop
+turn -53.370312
+trace 25.575001
+pop
+push
+turn -10.000000
+trace 20.900000
+push
+turn 71.102783
+trace 11.000000
+pop
+push
+turn -10.000000
+trace 11.000000
+pop
+turn -46.390118
+trace 16.500000
+pop
+turn -70.400864
+trace 20.900000
+push
+turn 55.407116
+trace 11.000000
+pop
+push
+turn -10.000000
+trace 11.000000
+pop
+turn -52.272255
+trace 16.500000
+pop
+push
+turn 10.000000
+trace 31.350000
+push
+turn 68.097321
+trace 17.050001
+push
+turn 36.156040
+trace 14.025001
+pop
+turn -61.013367
+trace 9.350000
+push
+turn 61.162296
+trace 4.950000
+pop
+push
+turn -10.000000
+trace 4.950000
+pop
+turn -41.175114
+trace 7.425000
+pop
+push
+turn 10.000000
+trace 17.050001
+push
+turn 50.242165
+trace 14.025001
+push
+turn 55.081181
+trace 7.700000
+pop
+turn -35.772118
+trace 11.550000
+pop
+push
+turn -10.000000
+trace 9.350000
+push
+turn 55.211800
+trace 4.950000
+pop
+turn -36.666309
+trace 7.425000
+pop
+turn -71.490372
+trace 9.350000
+push
+turn 56.005280
+trace 4.950000
+pop
+push
+turn -10.000000
+trace 4.950000
+pop
+turn -53.057800
+trace 7.425000
+pop
+turn -43.838772
+trace 25.575001
+push
+turn 35.354626
+trace 20.625000
+push
+turn 70.693230
+trace 11.000000
+pop
+push
+turn 10.000000
+trace 11.000000
+pop
+turn -45.708336
+trace 16.500000
+pop
+push
+turn -10.000000
+trace 13.750000
+push
+turn 72.287514
+trace 7.150000
+pop
+push
+turn -10.000000
+trace 7.150000
+pop
+turn -48.478195
+trace 10.725000
+pop
+turn -72.434006
+trace 13.750000
+push
+turn 67.261726
+trace 7.150000
+pop
+push
+turn 10.000000
+trace 7.150000
+pop
+turn -40.626392
+trace 10.725000
+pop
+turn -57.097233
+trace 31.350000
+push
+turn 57.442093
+trace 17.050001
+push
+turn 37.289497
+trace 14.025001
+push
+turn 66.222267
+trace 7.700000
+pop
+push
+turn -10.000000
+trace 7.700000
+pop
+turn -49.899746
+trace 11.550000
+pop
+push
+turn -10.000000
+trace 9.350000
+push
+turn 56.640675
+trace 4.950000
+pop
+push
+turn -10.000000
+trace 4.950000
+pop
+turn -41.076237
+trace 7.425000
+pop
+turn -63.783836
+trace 9.350000
+push
+turn 69.115417
+trace 4.950000
+pop
+push
+turn -10.000000
+trace 4.950000
+pop
+turn -37.568439
+trace 7.425000
+pop
+push
+turn -10.000000
+trace 17.050001
+push
+turn 43.501846
+trace 14.025001
+push
+turn 57.345654
+trace 7.700000
+pop
+turn -50.612659
+trace 11.550000
+pop
+push
+turn 10.000000
+trace 9.350000
+push
+turn 71.224861
+trace 4.950000
+pop
+push
+turn -10.000000
+trace 4.950000
+pop
+turn -43.180180
+trace 7.425000
+pop
+turn -71.298103
+trace 9.350000
+push
+turn 64.085358
+trace 4.950000
+pop
+push
+turn -10.000000
+trace 4.950000
+pop
+turn -54.569691
+trace 7.425000
+pop
+turn -39.022339
+trace 25.575001
+push
+turn 45.304878
+trace 20.625000
+push
+turn 65.047913
+trace 11.000000
+pop
+push
+turn 10.000000
+trace 11.000000
+pop
+turn -54.113132
+trace 16.500000
+pop
+turn -56.211586
+trace 13.750000
+push
+turn 65.151680
+trace 7.150000
+pop
+push
+turn 10.000000
+trace 7.150000
+pop
+turn -44.660328
+trace 10.725000
+pop
+push
+turn 10.000000
+trace 57.750000
+push
+turn 51.165043
+trace 47.025002
+push
+turn 69.300362
+trace 25.850000
+push
+turn 36.511887
+trace 20.625000
+push
+turn 71.775414
+trace 11.000000
+pop
+push
+turn 10.000000
+trace 11.000000
+pop
+turn -50.430157
+trace 16.500000
+pop
+turn -73.158516
+trace 13.750000
+push
+turn 70.919678
+trace 7.150000
+pop
+push
+turn -10.000000
+trace 7.150000
+pop
+turn -37.439651
+trace 10.725000
+pop
+push
+turn 10.000000
+trace 25.850000
+push
+turn 45.203560
+trace 20.625000
+push
+turn 56.535690
+trace 11.000000
+pop
+push
+turn 10.000000
+trace 11.000000
+pop
+turn -46.135593
+trace 16.500000
+pop
+push
+turn -10.000000
+trace 13.750000
+push
+turn 73.544876
+trace 7.150000
+pop
+turn -36.225014
+trace 10.725000
+pop
+turn -55.369274
+trace 13.750000
+push
+turn 64.057892
+trace 7.150000
+pop
+push
+turn -10.000000
+trace 7.150000
+pop
+turn -40.456711
+trace 10.725000
+pop
+turn -42.524643
+trace 38.775002
+push
+turn 42.654041
+trace 31.350000
+push
+turn 59.375134
+trace 17.050001
+pop
+push
+turn 10.000000
+trace 17.050001
+pop
+turn -43.153324
+trace 25.575001
+pop
+turn -65.270699
+trace 20.900000
+push
+turn 68.998230
+trace 11.000000
+pop
+turn -44.418621
+trace 16.500000
+pop
+turn -57.690514
+trace 31.350000
+push
+turn 67.186043
+trace 17.050001
+push
+turn 35.261238
+trace 14.025001
+push
+turn 55.073856
+trace 7.700000
+pop
+push
+turn 10.000000
+trace 7.700000
+pop
+turn -48.025909
+trace 11.550000
+pop
+push
+turn -10.000000
+trace 9.350000
+push
+turn 58.993652
+trace 4.950000
+pop
+push
+turn 10.000000
+trace 4.950000
+pop
+turn -52.191689
+trace 7.425000
+pop
+turn -68.188271
+trace 9.350000
+push
+turn 64.170815
+trace 4.950000
+pop
+push
+turn -10.000000
+trace 4.950000
+pop
+turn -44.125645
+trace 7.425000
+pop
+turn -35.909451
+trace 25.575001
+push
+turn 51.031982
+trace 20.625000
+push
+turn 72.963196
+trace 11.000000
+pop
+push
+turn 10.000000
+trace 11.000000
+pop
+turn -54.486069
+trace 16.500000
+pop
+push
+turn 10.000000
+trace 13.750000
+push
+turn 62.198097
+trace 7.150000
+pop
+turn -49.993744
+trace 10.725000
+pop
+turn -69.954071
+trace 13.750000
+push
+turn 66.957764
+trace 7.150000
+pop
+push
+turn 10.000000
+trace 7.150000
+pop
+turn -43.673359
+trace 10.725000
+pop
+turn -41.846523
+trace 86.625000
+push
+turn 53.140812
+trace 70.950005
+push
+turn 68.534348
+trace 38.500000
+push
+turn 41.772667
+trace 31.350000
+push
+turn 64.695122
+trace 17.050001
+pop
+turn -53.788414
+trace 25.575001
+pop
+push
+turn 10.000000
+trace 20.900000
+push
+turn 73.488113
+trace 11.000000
+pop
+turn -36.841488
+trace 16.500000
+pop
+turn -59.074833
+trace 20.900000
+push
+turn 64.796440
+trace 11.000000
+pop
+push
+turn -10.000000
+trace 11.000000
+pop
+turn -54.630726
+trace 16.500000
+pop
+push
+turn 10.000000
+trace 38.500000
+push
+turn 54.483627
+trace 31.350000
+push
+turn 67.345955
+trace 17.050001
+pop
+turn -44.729301
+trace 25.575001
+pop
+turn -61.789757
+trace 20.900000
+pop
+turn -38.632313
+trace 57.750000
+push
+turn 53.678547
+trace 47.025002
+push
+turn 74.738762
+trace 25.850000
+pop
+push
+turn -10.000000
+trace 25.850000
+pop
+turn -41.811729
+trace 38.775002
+pop
+push
+turn -10.000000
+trace 31.350000
+push
+turn 58.968018
+trace 17.050001
+pop
+push
+turn 10.000000
+trace 17.050001
+pop
+turn -40.045929
+trace 25.575001
+pop
+turn -56.113316
+trace 31.350000
+push
+turn 68.227333
+trace 17.050001
+pop
+push
+turn 10.000000
+trace 17.050001
+pop
+turn -50.925167
+trace 25.575001
+pop
+turn -67.082275
+trace 47.299999
+push
+turn 66.234474
+trace 25.850000
+push
+turn 46.937622
+trace 20.625000
+push
+turn 55.516373
+trace 11.000000
+pop
+turn -48.210243
+trace 16.500000
+pop
+push
+turn -10.000000
+trace 13.750000
+push
+turn 56.321453
+trace 7.150000
+pop
+push
+turn -10.000000
+trace 7.150000
+pop
+turn -53.886684
+trace 10.725000
+pop
+turn -67.134163
+trace 13.750000
+push
+turn 63.062378
+trace 7.150000
+pop
+push
+turn -10.000000
+trace 7.150000
+pop
+turn -42.865841
+trace 10.725000
+pop
+push
+turn -10.000000
+trace 25.850000
+push
+turn 40.560471
+trace 20.625000
+push
+turn 69.439529
+trace 11.000000
+pop
+push
+turn 10.000000
+trace 11.000000
+pop
+turn -42.732170
+trace 16.500000
+pop
+push
+turn 10.000000
+trace 13.750000
+push
+turn 72.224037
+trace 7.150000
+pop
+push
+turn 10.000000
+trace 7.150000
+pop
+turn -40.312050
+trace 10.725000
+pop
+turn -67.267830
+trace 13.750000
+push
+turn 66.099579
+trace 7.150000
+pop
+push
+turn 10.000000
+trace 7.150000
+pop
+turn -48.716240
+trace 10.725000
+pop
+turn -53.775597
+trace 38.775002
+push
+turn 37.775963
+trace 31.350000
+push
+turn 59.015015
+trace 17.050001
+pop
+turn -52.429119
+trace 25.575001
+pop
+push
+turn 10.000000
+trace 20.900000
+push
+turn 60.390789
+trace 11.000000
+pop
+push
+turn -10.000000
+trace 11.000000
+pop
+turn -48.954895
+trace 16.500000
+pop
+turn -69.687950
+trace 20.900000
+push
+turn 70.718254
+trace 11.000000
+pop
+push
+turn -10.000000
+trace 11.000000
+pop
+turn -53.460037
+trace 16.500000
+pop
+turn -57.564777
+trace 105.600006
+push
+turn 66.179543
+trace 57.750000
+push
+turn 47.490005
+trace 47.025002
+push
+turn 59.354992
+trace 25.850000
+push
+turn 43.900417
+trace 20.625000
+push
+turn 59.283577
+trace 11.000000
+pop
+turn -41.233101
+trace 16.500000
+pop
+push
+turn 10.000000
+trace 13.750000
+push
+turn 72.374794
+trace 7.150000
+pop
+push
+turn -10.000000
+trace 7.150000
+pop
+turn -35.608540
+trace 10.725000
+pop
+turn -61.283760
+trace 13.750000
+push
+turn 57.525101
+trace 7.150000
+pop
+push
+turn 10.000000
+trace 7.150000
+pop
+turn -36.966003
+trace 10.725000
+pop
+push
+turn 10.000000
+trace 25.850000
+push
+turn 50.984985
+trace 20.625000
+push
+turn 73.626060
+trace 11.000000
+pop
+push
+turn -10.000000
+trace 11.000000
+pop
+turn -36.616871
+trace 16.500000
+pop
+turn -57.570881
+trace 13.750000
+push
+turn 66.292458
+trace 7.150000
+pop
+turn -35.469376
+trace 10.725000
+pop
+turn -48.982361
+trace 38.775002
+push
+turn 49.609211
+trace 31.350000
+push
+turn 58.341167
+trace 17.050001
+pop
+push
+turn -10.000000
+trace 17.050001
+pop
+turn -36.361126
+trace 25.575001
+pop
+push
+turn -10.000000
+trace 20.900000
+push
+turn 60.441452
+trace 11.000000
+pop
+push
+turn -10.000000
+trace 11.000000
+pop
+turn -53.245186
+trace 16.500000
+pop
+turn -61.045105
+trace 20.900000
+push
+turn 69.165474
+trace 11.000000
+pop
+push
+turn -10.000000
+trace 11.000000
+pop
+turn -37.465286
+trace 16.500000
+pop
+push
+turn -10.000000
+trace 31.350000
+push
+turn 56.887264
+trace 17.050001
+push
+turn 39.281746
+trace 14.025001
+push
+turn 58.717766
+trace 7.700000
+pop
+push
+turn -10.000000
+trace 7.700000
+pop
+turn -43.388927
+trace 11.550000
+pop
+push
+turn -10.000000
+trace 9.350000
+push
+turn 56.116367
+trace 4.950000
+pop
+push
+turn 10.000000
+trace 4.950000
+pop
+turn -39.152348
+trace 7.425000
+pop
+turn -56.539963
+trace 9.350000
+push
+turn 70.059052
+trace 4.950000
+pop
+push
+turn -10.000000
+trace 4.950000
+pop
+turn -46.476181
+trace 7.425000
+pop
+push
+turn 10.000000
+trace 17.050001
+push
+turn 50.716423
+trace 14.025001
+push
+turn 59.887234
+trace 7.700000
+pop
+push
+turn 10.000000
+trace 7.700000
+pop
+turn -41.201973
+trace 11.550000
+pop
+turn -68.766899
+trace 9.350000
+push
+turn 63.772240
+trace 4.950000
+pop
+push
+turn -10.000000
+trace 4.950000
+pop
+turn -54.139988
+trace 7.425000
+pop
+turn -46.979736
+trace 25.575001
+push
+turn 37.625202
+trace 20.625000
+push
+turn 67.283089
+trace 11.000000
+pop
+push
+turn 10.000000
+trace 11.000000
+pop
+turn -37.623981
+trace 16.500000
+pop
+push
+turn -10.000000
+trace 13.750000
+push
+turn 57.467117
+trace 7.150000
+pop
+turn -35.316784
+trace 10.725000
+pop
+turn -74.391464
+trace 13.750000
+push
+turn 71.877350
+trace 7.150000
+pop
+push
+turn 10.000000
+trace 7.150000
+pop
+turn -39.009521
+trace 10.725000
+pop
+turn -67.564468
+trace 31.350000
+push
+turn 65.475174
+trace 17.050001
+push
+turn 52.474899
+trace 14.025001
+push
+turn 59.686420
+trace 7.700000
+pop
+push
+turn 10.000000
+trace 7.700000
+pop
+turn -40.047760
+trace 11.550000
+pop
+push
+turn 10.000000
+trace 9.350000
+push
+turn 72.214882
+trace 4.950000
+pop
+push
+turn 10.000000
+trace 4.950000
+pop
+turn -47.190926
+trace 7.425000
+pop
+turn -73.033997
+trace 9.350000
+push
+turn 71.008789
+trace 4.950000
+pop
+push
+turn 10.000000
+trace 4.950000
+pop
+turn -37.750328
+trace 7.425000
+pop
+turn -37.915127
+trace 25.575001
+push
+turn 36.373943
+trace 20.625000
+push
+turn 73.641930
+trace 11.000000
+pop
+turn -38.645130
+trace 16.500000
+pop
+push
+turn -10.000000
+trace 13.750000
+push
+turn 72.477341
+trace 7.150000
+pop
+push
+turn -10.000000
+trace 7.150000
+pop
+turn -52.976013
+trace 10.725000
+pop
+turn -73.383133
+trace 13.750000
+push
+turn 70.746941
+trace 7.150000
+pop
+push
+turn -10.000000
+trace 7.150000
+pop
+turn -36.359295
+trace 10.725000
+pop
+push
+turn 10.000000
+trace 57.750000
+push
+turn 40.796684
+trace 47.025002
+push
+turn 58.770866
+trace 25.850000
+push
+turn 43.707542
+trace 20.625000
+push
+turn 57.537918
+trace 11.000000
+pop
+push
+turn -10.000000
+trace 11.000000
+pop
+turn -45.235298
+trace 16.500000
+pop
+turn -74.530624
+trace 13.750000
+push
+turn 73.415482
+trace 7.150000
+pop
+turn -51.363415
+trace 10.725000
+pop
+push
+turn 10.000000
+trace 25.850000
+push
+turn 51.658833
+trace 20.625000
+push
+turn 61.570026
+trace 11.000000
+pop
+push
+turn -10.000000
+trace 11.000000
+pop
+turn -48.676563
+trace 16.500000
+pop
+push
+turn -10.000000
+trace 13.750000
+push
+turn 71.359749
+trace 7.150000
+pop
+turn -41.678059
+trace 10.725000
+pop
+turn -73.638878
+trace 13.750000
+push
+turn 67.633446
+trace 7.150000
+pop
+push
+turn -10.000000
+trace 7.150000
+pop
+turn -49.681232
+trace 10.725000
+pop
+turn -49.646442
+trace 38.775002
+push
+turn 49.558548
+trace 31.350000
+push
+turn 59.631489
+trace 17.050001
+pop
+push
+turn -10.000000
+trace 17.050001
+pop
+turn -42.177952
+trace 25.575001
+pop
+push
+turn -10.000000
+trace 20.900000
+push
+turn 60.449387
+trace 11.000000
+pop
+push
+turn -10.000000
+trace 11.000000
+pop
+turn -39.146854
+trace 16.500000
+pop
+turn -56.754814
+trace 20.900000
+push
+turn 61.486404
+trace 11.000000
+pop
+push
+turn 10.000000
+trace 11.000000
+pop
+turn -46.338848
+trace 16.500000
+pop
+turn -63.176517
+trace 31.350000
+push
+turn 72.420578
+trace 17.050001
+push
+turn 40.834530
+trace 14.025001
+push
+turn 58.087254
+trace 7.700000
+pop
+push
+turn 10.000000
+trace 7.700000
+pop
+turn -54.911495
+trace 11.550000
+pop
+push
+turn -10.000000
+trace 9.350000
+push
+turn 71.340218
+trace 4.950000
+pop
+turn -50.378277
+trace 7.425000
+pop
+turn -72.534714
+trace 9.350000
+push
+turn 62.177952
+trace 4.950000
+pop
+turn -38.693352
+trace 7.425000
+pop
+push
+turn -10.000000
+trace 17.050001
+push
+turn 51.282234
+trace 14.025001
+push
+turn 74.942627
+trace 7.700000
+pop
+push
+turn 10.000000
+trace 7.700000
+pop
+turn -43.365734
+trace 11.550000
+pop
+push
+turn -10.000000
+trace 9.350000
+push
+turn 58.570057
+trace 4.950000
+pop
+push
+turn -10.000000
+trace 4.950000
+pop
+turn -50.060272
+trace 7.425000
+pop
+turn -66.611069
+trace 9.350000
+push
+turn 55.986969
+trace 4.950000
+pop
+push
+turn -10.000000
+trace 4.950000
+pop
+turn -36.459396
+trace 7.425000
+pop
+turn -46.318707
+trace 25.575001
+push
+turn 53.883633
+trace 20.625000
+push
+turn 67.491837
+trace 11.000000
+pop
+push
+turn 10.000000
+trace 11.000000
+pop
+turn -47.505875
+trace 16.500000
+pop
+push
+turn 10.000000
+trace 13.750000
+push
+turn 55.169071
+trace 7.150000
+pop
+turn -44.457077
+trace 10.725000
+pop
+turn -70.847649
+trace 13.750000
+push
+turn 57.102726
+trace 7.150000
+pop
+push
+turn -10.000000
+trace 7.150000
+pop
+turn -48.015533
+trace 10.725000
+pop
+turn -35.905178
+trace 86.625000
+push
+turn 40.727715
+trace 70.950005
+push
+turn 61.086613
+trace 38.500000
+push
+turn 39.940948
+trace 31.350000
+push
+turn 72.283852
+trace 17.050001
+pop
+push
+turn -10.000000
+trace 17.050001
+pop
+turn -37.723473
+trace 25.575001
+pop
+push
+turn -10.000000
+trace 20.900000
+push
+turn 71.510513
+trace 11.000000
+pop
+push
+turn -10.000000
+trace 11.000000
+pop
+turn -38.283791
+trace 16.500000
+pop
+turn -63.523819
+trace 20.900000
+push
+turn 72.505417
+trace 11.000000
+pop
+push
+turn 10.000000
+trace 11.000000
+pop
+turn -51.481827
+trace 16.500000
+pop
+push
+turn 10.000000
+trace 38.500000
+push
+turn 50.112766
+trace 31.350000
+push
+turn 65.366524
+trace 17.050001
+pop
+push
+turn 10.000000
+trace 17.050001
+pop
+turn -36.909237
+trace 25.575001
+pop
+push
+turn 10.000000
+trace 20.900000
+push
+turn 62.257301
+trace 11.000000
+pop
+turn -53.642536
+trace 16.500000
+pop
+turn -68.798027
+trace 20.900000
+push
+turn 62.177341
+trace 11.000000
+pop
+turn -53.350170
+trace 16.500000
+pop
+turn -49.133732
+trace 57.750000
+push
+turn 46.227760
+trace 47.025002
+push
+turn 56.029083
+trace 25.850000
+pop
+push
+turn 10.000000
+trace 25.850000
+pop
+turn -52.022003
+trace 38.775002
+pop
+push
+turn -10.000000
+trace 31.350000
+push
+turn 59.795067
+trace 17.050001
+pop
+turn -36.555832
+trace 25.575001
+pop
+turn -55.860012
+trace 31.350000
+push
+turn 65.674767
+trace 17.050001
+pop
+turn -41.537064
+trace 25.575001
+pop
+push
+turn -10.000000
+trace 47.299999
+push
+turn 57.764977
+trace 25.850000
+push
+turn 42.716911
+trace 20.625000
+push
+turn 68.353065
+trace 11.000000
+pop
+push
+turn -10.000000
+trace 11.000000
+pop
+turn -42.862789
+trace 16.500000
+pop
+push
+turn 10.000000
+trace 13.750000
+push
+turn 68.893250
+trace 7.150000
+pop
+push
+turn 10.000000
+trace 7.150000
+pop
+turn -39.417248
+trace 10.725000
+pop
+turn -72.376022
+trace 13.750000
+push
+turn 59.854275
+trace 7.150000
+pop
+push
+turn 10.000000
+trace 7.150000
+pop
+turn -43.154545
+trace 10.725000
+pop
+push
+turn 10.000000
+trace 25.850000
+push
+turn 52.532883
+trace 20.625000
+push
+turn 68.947571
+trace 11.000000
+pop
+push
+turn -10.000000
+trace 11.000000
+pop
+turn -54.462265
+trace 16.500000
+pop
+turn -74.683220
+trace 13.750000
+push
+turn 60.612965
+trace 7.150000
+pop
+push
+turn -10.000000
+trace 7.150000
+pop
+turn -47.106083
+trace 10.725000
+pop
+turn -41.360058
+trace 38.775002
+push
+turn 38.122654
+trace 31.350000
+push
+turn 61.648762
+trace 17.050001
+pop
+turn -41.243477
+trace 25.575001
+pop
+push
+turn 10.000000
+trace 20.900000
+push
+turn 59.370861
+trace 11.000000
+pop
+turn -44.573658
+trace 16.500000
+pop
+turn -70.990479
+trace 20.900000
+push
+turn 55.352184
+trace 11.000000
+pop
+push
+turn -10.000000
+trace 11.000000
+pop
+turn -52.834408
+trace 16.500000
+pop
+turn -65.981171
+trace 47.299999
+push
+turn 66.611679
+trace 25.850000
+push
+turn 50.313580
+trace 20.625000
+push
+turn 58.017059
+trace 11.000000
+pop
+turn -49.411449
+trace 16.500000
+pop
+push
+turn 10.000000
+trace 13.750000
+push
+turn 58.376568
+trace 7.150000
+pop
+turn -38.962524
+trace 10.725000
+pop
+turn -69.952240
+trace 13.750000
+push
+turn 60.735039
+trace 7.150000
+pop
+push
+turn -10.000000
+trace 7.150000
+pop
+turn -43.896145
+trace 10.725000
+pop
+push
+turn 10.000000
+trace 25.850000
+push
+turn 37.785118
+trace 20.625000
+push
+turn 70.327614
+trace 11.000000
+pop
+push
+turn -10.000000
+trace 11.000000
+pop
+turn -49.376049
+trace 16.500000
+pop
+push
+turn 10.000000
+trace 13.750000
+push
+turn 74.053314
+trace 7.150000
+pop
+push
+turn 10.000000
+trace 7.150000
+pop
+turn -49.503006
+trace 10.725000
+pop
+turn -62.809074
+trace 13.750000
+push
+turn 62.099216
+trace 7.150000
+pop
+push
+turn -10.000000
+trace 7.150000
+pop
+turn -44.180576
+trace 10.725000
+pop
+turn -46.764275
+trace 38.775002
+push
+turn 38.991211
+trace 31.350000
+push
+turn 63.734398
+trace 17.050001
+pop
+push
+turn -10.000000
+trace 17.050001
+pop
+turn -53.725548
+trace 25.575001
+pop
+push
+turn 10.000000
+trace 20.900000
+push
+turn 73.117615
+trace 11.000000
+pop
+push
+turn -10.000000
+trace 11.000000
+pop
+turn -49.323559
+trace 16.500000
+pop
+turn -72.249672
+trace 20.900000
+push
+turn 59.140751
+trace 11.000000
+pop
+turn -39.884182
+trace 16.500000
+pop
+push
+turn 10.000000
+trace 192.500000
+push
+turn 49.592731
+trace 158.400009
+push
+turn 67.589493
+trace 86.900002
+push
+turn 45.561234
+trace 70.950005
+push
+turn 61.917324
+trace 38.500000
+push
+turn 36.358074
+trace 31.350000
+push
+turn 55.480972
+trace 17.050001
+pop
+push
+turn 10.000000
+trace 17.050001
+pop
+turn -51.133305
+trace 25.575001
+pop
+turn -71.354866
+trace 20.900000
+push
+turn 71.637474
+trace 11.000000
+pop
+push
+turn -10.000000
+trace 11.000000
+pop
+turn -54.616077
+trace 16.500000
+pop
+push
+turn 10.000000
+trace 38.500000
+push
+turn 37.522659
+trace 31.350000
+push
+turn 74.829094
+trace 17.050001
+pop
+push
+turn -10.000000
+trace 17.050001
+pop
+turn -35.303352
+trace 25.575001
+pop
+push
+turn -10.000000
+trace 20.900000
+push
+turn 67.908112
+trace 11.000000
+pop
+push
+turn 10.000000
+trace 11.000000
+pop
+turn -43.735008
+trace 16.500000
+pop
+turn -57.023987
+trace 20.900000
+push
+turn 62.903683
+trace 11.000000
+pop
+push
+turn -10.000000
+trace 11.000000
+pop
+turn -52.880795
+trace 16.500000
+pop
+turn -49.979095
+trace 57.750000
+push
+turn 39.253059
+trace 47.025002
+push
+turn 61.237373
+trace 25.850000
+pop
+push
+turn 10.000000
+trace 25.850000
+pop
+turn -48.823666
+trace 38.775002
+pop
+push
+turn -10.000000
+trace 31.350000
+push
+turn 58.137913
+trace 17.050001
+pop
+turn -45.881680
+trace 25.575001
+pop
+turn -73.640709
+trace 31.350000
+push
+turn 66.688591
+trace 17.050001
+pop
+push
+turn -10.000000
+trace 17.050001
+pop
+turn -51.986603
+trace 25.575001
+pop
+turn -59.217659
+trace 47.299999
+push
+turn 69.645226
+trace 25.850000
+push
+turn 52.462082
+trace 20.625000
+push
+turn 72.635429
+trace 11.000000
+pop
+push
+turn -10.000000
+trace 11.000000
+pop
+turn -38.567616
+trace 16.500000
+pop
+push
+turn -10.000000
+trace 13.750000
+push
+turn 63.440811
+trace 7.150000
+pop
+push
+turn -10.000000
+trace 7.150000
+pop
+turn -43.073978
+trace 10.725000
+pop
+turn -64.764702
+trace 13.750000
+push
+turn 71.956085
+trace 7.150000
+pop
+turn -42.934811
+trace 10.725000
+pop
+push
+turn -10.000000
+trace 25.850000
+push
+turn 36.584522
+trace 20.625000
+push
+turn 74.947510
+trace 11.000000
+pop
+turn -45.269478
+trace 16.500000
+pop
+turn -58.636585
+trace 13.750000
+push
+turn 71.419571
+trace 7.150000
+pop
+push
+turn 10.000000
+trace 7.150000
+pop
+turn -36.005890
+trace 10.725000
+pop
+turn -41.859951
+trace 38.775002
+push
+turn 48.429974
+trace 31.350000
+push
+turn 57.542801
+trace 17.050001
+pop
+push
+turn 10.000000
+trace 17.050001
+pop
+turn -43.208870
+trace 25.575001
+pop
+push
+turn -10.000000
+trace 20.900000
+push
+turn 55.680561
+trace 11.000000
+pop
+turn -54.436626
+trace 16.500000
+pop
+turn -61.323437
+trace 20.900000
+push
+turn 69.923553
+trace 11.000000
+pop
+turn -54.160130
+trace 16.500000
+pop
+push
+turn 10.000000
+trace 86.900002
+push
+turn 38.794670
+trace 70.950005
+push
+turn 67.614517
+trace 38.500000
+push
+turn 38.640247
+trace 31.350000
+push
+turn 67.897125
+trace 17.050001
+pop
+push
+turn -10.000000
+trace 17.050001
+pop
+turn -53.039490
+trace 25.575001
+pop
+turn -68.321938
+trace 20.900000
+push
+turn 73.591873
+trace 11.000000
+pop
+push
+turn 10.000000
+trace 11.000000
+pop
+turn -51.351208
+trace 16.500000
+pop
+push
+turn -10.000000
+trace 38.500000
+push
+turn 42.366558
+trace 31.350000
+push
+turn 68.697319
+trace 17.050001
+pop
+push
+turn -10.000000
+trace 17.050001
+pop
+turn -37.804649
+trace 25.575001
+pop
+push
+turn -10.000000
+trace 20.900000
+push
+turn 68.502609
+trace 11.000000
+pop
+push
+turn 10.000000
+trace 11.000000
+pop
+turn -35.333263
+trace 16.500000
+pop
+turn -60.318768
+trace 20.900000
+push
+turn 74.624008
+trace 11.000000
+pop
+push
+turn 10.000000
+trace 11.000000
+pop
+turn -40.569019
+trace 16.500000
+pop
+turn -48.689995
+trace 57.750000
+push
+turn 50.368511
+trace 47.025002
+push
+turn 74.904785
+trace 25.850000
+pop
+turn -53.060242
+trace 38.775002
+pop
+push
+turn -10.000000
+trace 31.350000
+push
+turn 59.077274
+trace 17.050001
+pop
+push
+turn 10.000000
+trace 17.050001
+pop
+turn -48.567310
+trace 25.575001
+pop
+turn -67.822044
+trace 31.350000
+push
+turn 65.243843
+trace 17.050001
+pop
+push
+turn -10.000000
+trace 17.050001
+pop
+turn -35.725731
+trace 25.575001
+pop
+push
+turn -10.000000
+trace 47.299999
+push
+turn 72.795341
+trace 25.850000
+push
+turn 49.550613
+trace 20.625000
+push
+turn 64.631645
+trace 11.000000
+pop
+push
+turn -10.000000
+trace 11.000000
+pop
+turn -37.883999
+trace 16.500000
+pop
+push
+turn -10.000000
+trace 13.750000
+push
+turn 57.417065
+trace 7.150000
+pop
+push
+turn 10.000000
+trace 7.150000
+pop
+turn -51.270638
+trace 10.725000
+pop
+turn -70.853142
+trace 13.750000
+push
+turn 62.304298
+trace 7.150000
+pop
+push
+turn -10.000000
+trace 7.150000
+pop
+turn -38.914303
+trace 10.725000
+pop
+push
+turn 10.000000
+trace 25.850000
+push
+turn 48.513596
+trace 20.625000
+push
+turn 70.177467
+trace 11.000000
+pop
+push
+turn -10.000000
+trace 11.000000
+pop
+turn -52.512131
+trace 16.500000
+pop
+push
+turn 10.000000
+trace 13.750000
+push
+turn 72.814873
+trace 7.150000
+pop
+push
+turn 10.000000
+trace 7.150000
+pop
+turn -41.156803
+trace 10.725000
+pop
+turn -63.661152
+trace 13.750000
+push
+turn 62.068699
+trace 7.150000
+pop
+turn -45.131535
+trace 10.725000
+pop
+turn -51.379284
+trace 38.775002
+push
+turn 51.912746
+trace 31.350000
+push
+turn 56.342205
+trace 17.050001
+pop
+turn -54.155857
+trace 25.575001
+pop
+push
+turn 10.000000
+trace 20.900000
+push
+turn 63.506729
+trace 11.000000
+pop
+push
+turn -10.000000
+trace 11.000000
+pop
+turn -53.207344
+trace 16.500000
+pop
+turn -55.088505
+trace 20.900000
+push
+turn 70.973999
+trace 11.000000
+pop
+turn -53.810997
+trace 16.500000
+pop
+turn -66.243019
+trace 47.299999
+push
+turn 57.337719
+trace 25.850000
+push
+turn 38.659779
+trace 20.625000
+push
+turn 74.735710
+trace 11.000000
+pop
+push
+turn -10.000000
+trace 11.000000
+pop
+turn -51.057617
+trace 16.500000
+pop
+turn -59.621723
+trace 13.750000
+push
+turn 63.217415
+trace 7.150000
+pop
+turn -37.888882
+trace 10.725000
+pop
+push
+turn 10.000000
+trace 25.850000
+push
+turn 47.822048
+trace 20.625000
+push
+turn 65.680870
+trace 11.000000
+pop
+push
+turn -10.000000
+trace 11.000000
+pop
+turn -50.519882
+trace 16.500000
+pop
+turn -71.306648
+trace 13.750000
+push
+turn 73.424637
+trace 7.150000
+pop
+push
+turn 10.000000
+trace 7.150000
+pop
+turn -52.637867
+trace 10.725000
+pop
+turn -44.081089
+trace 38.775002
+push
+turn 35.057373
+trace 31.350000
+push
+turn 60.911434
+trace 17.050001
+pop
+turn -46.871700
+trace 25.575001
+pop
+push
+turn 10.000000
+trace 20.900000
+push
+turn 60.944397
+trace 11.000000
+pop
+push
+turn 10.000000
+trace 11.000000
+pop
+turn -38.171482
+trace 16.500000
+pop
+turn -66.634270
+trace 20.900000
+push
+turn 56.975769
+trace 11.000000
+pop
+push
+turn 10.000000
+trace 11.000000
+pop
+turn -47.290413
+trace 16.500000
+pop
+turn -40.938293
+trace 130.350006
+push
+turn 41.371044
+trace 107.250000
+push
+turn 73.729820
+trace 58.850002
+push
+turn 51.429943
+trace 47.850002
+push
+turn 69.140450
+trace 25.850000
+pop
+turn -45.767540
+trace 38.775002
+pop
+push
+turn -10.000000
+trace 31.900002
+push
+turn 71.967072
+trace 17.050001
+pop
+push
+turn 10.000000
+trace 17.050001
+pop
+turn -52.501144
+trace 25.575001
+pop
+turn -59.939728
+trace 31.900002
+push
+turn 56.754204
+trace 17.050001
+pop
+push
+turn 10.000000
+trace 17.050001
+pop
+turn -49.139225
+trace 25.575001
+pop
+turn -47.329479
+trace 88.275002
+push
+turn 54.013031
+trace 72.599998
+push
+turn 58.209328
+trace 39.600002
+pop
+push
+turn -10.000000
+trace 39.600002
+pop
+turn -36.094395
+trace 59.400002
+pop
+push
+turn -10.000000
+trace 48.400002
+push
+turn 68.965881
+trace 26.400002
+pop
+push
+turn -10.000000
+trace 26.400002
+pop
+turn -40.704521
+trace 39.600002
+pop
+turn -73.540604
+trace 48.400002
+push
+turn 56.107212
+trace 26.400002
+pop
+turn -38.482162
+trace 39.600002
+pop
+turn -59.555801
+trace 71.500000
+push
+turn 74.368263
+trace 39.049999
+push
+turn 42.508163
+trace 32.174999
+push
+turn 56.857357
+trace 17.600000
+pop
+turn -41.541946
+trace 26.400002
+pop
+push
+turn 10.000000
+trace 21.450001
+push
+turn 71.851707
+trace 11.550000
+pop
+push
+turn 10.000000
+trace 11.550000
+pop
+turn -46.864986
+trace 17.325001
+pop
+turn -62.494125
+trace 21.450001
+push
+turn 71.871239
+trace 11.550000
+pop
+turn -51.658222
+trace 17.325001
+pop
+push
+turn -10.000000
+trace 39.049999
+push
+turn 54.830929
+trace 32.174999
+push
+turn 60.453049
+trace 17.600000
+pop
+turn -53.525345
+trace 26.400002
+pop
+turn -65.542923
+trace 21.450001
+push
+turn 71.381119
+trace 11.550000
+pop
+push
+turn -10.000000
+trace 11.550000
+pop
+turn -51.198006
+trace 17.325001
+pop
+turn -41.544998
+trace 58.575001
+push
+turn 52.897274
+trace 47.850002
+push
+turn 74.431137
+trace 25.850000
+pop
+push
+turn -10.000000
+trace 25.850000
+pop
+turn -45.317089
+trace 38.775002
+pop
+push
+turn -10.000000
+trace 31.900002
+push
+turn 55.667744
+trace 17.050001
+pop
+push
+turn -10.000000
+trace 17.050001
+pop
+turn -49.269844
+trace 25.575001
+pop
+turn -61.984467
+trace 31.900002
+push
+turn 74.879150
+trace 17.050001
+pop
+push
+turn -10.000000
+trace 17.050001
+pop
+turn -35.199593
+trace 25.575001
+pop
+turn -58.293556
+trace 105.600006
+push
+turn 67.366096
+trace 57.750000
+push
+turn 51.333508
+trace 47.025002
+push
+turn 70.013885
+trace 25.850000
+push
+turn 37.716148
+trace 20.625000
+push
+turn 57.407909
+trace 11.000000
+pop
+push
+turn -10.000000
+trace 11.000000
+pop
+turn -38.148899
+trace 16.500000
+pop
+push
+turn -10.000000
+trace 13.750000
+push
+turn 55.339977
+trace 7.150000
+pop
+push
+turn -10.000000
+trace 7.150000
+pop
+turn -53.352001
+trace 10.725000
+pop
+turn -72.276527
+trace 13.750000
+push
+turn 64.250160
+trace 7.150000
+pop
+push
+turn 10.000000
+trace 7.150000
+pop
+turn -46.921749
+trace 10.725000
+pop
+turn -49.564045
+trace 38.775002
+push
+turn 38.489487
+trace 31.350000
+push
+turn 72.590256
+trace 17.050001
+pop
+push
+turn 10.000000
+trace 17.050001
+pop
+turn -36.644337
+trace 25.575001
+pop
+push
+turn -10.000000
+trace 20.900000
+push
+turn 64.333778
+trace 11.000000
+pop
+turn -48.204750
+trace 16.500000
+pop
+turn -71.716209
+trace 20.900000
+push
+turn 72.823418
+trace 11.000000
+pop
+push
+turn -10.000000
+trace 11.000000
+pop
+turn -49.885098
+trace 16.500000
+pop
+push
+turn 10.000000
+trace 31.350000
+push
+turn 65.920135
+trace 17.050001
+push
+turn 37.494583
+trace 14.025001
+push
+turn 60.084995
+trace 7.700000
+pop
+push
+turn 10.000000
+trace 7.700000
+pop
+turn -50.034027
+trace 11.550000
+pop
+push
+turn 10.000000
+trace 9.350000
+push
+turn 57.894375
+trace 4.950000
+pop
+push
+turn 10.000000
+trace 4.950000
+pop
+turn -44.053009
+trace 7.425000
+pop
+turn -58.518173
+trace 9.350000
+push
+turn 55.738548
+trace 4.950000
+pop
+push
+turn -10.000000
+trace 4.950000
+pop
+turn -43.337658
+trace 7.425000
+pop
+push
+turn -10.000000
+trace 17.050001
+push
+turn 44.633472
+trace 14.025001
+push
+turn 56.489914
+trace 7.700000
+pop
+push
+turn -10.000000
+trace 7.700000
+pop
+turn -41.386913
+trace 11.550000
+pop
+push
+turn 10.000000
+trace 9.350000
+push
+turn 68.742485
+trace 4.950000
+pop
+push
+turn 10.000000
+trace 4.950000
+pop
+turn -39.727318
+trace 7.425000
+pop
+turn -73.090759
+trace 9.350000
+push
+turn 67.609634
+trace 4.950000
+pop
+push
+turn 10.000000
+trace 4.950000
+pop
+turn -50.716423
+trace 7.425000
+pop
+turn -46.127048
+trace 25.575001
+push
+turn 47.742699
+trace 20.625000
+push
+turn 70.529648
+trace 11.000000
+pop
+push
+turn 10.000000
+trace 11.000000
+pop
+turn -37.749107
+trace 16.500000
+pop
+turn -56.357464
+trace 13.750000
+push
+turn 73.692589
+trace 7.150000
+pop
+push
+turn 10.000000
+trace 7.150000
+pop
+turn -35.537125
+trace 10.725000
+pop
+turn -55.294197
+trace 31.350000
+push
+turn 68.515427
+trace 17.050001
+push
+turn 47.822659
+trace 14.025001
+push
+turn 63.205208
+trace 7.700000
+pop
+push
+turn -10.000000
+trace 7.700000
+pop
+turn -53.828091
+trace 11.550000
+pop
+turn -56.649830
+trace 9.350000
+push
+turn 71.796165
+trace 4.950000
+pop
+push
+turn -10.000000
+trace 4.950000
+pop
+turn -44.601124
+trace 7.425000
+pop
+push
+turn -10.000000
+trace 17.050001
+push
+turn 53.970917
+trace 14.025001
+push
+turn 56.469772
+trace 7.700000
+pop
+turn -37.642292
+trace 11.550000
+pop
+push
+turn 10.000000
+trace 9.350000
+push
+turn 68.775444
+trace 4.950000
+pop
+push
+turn 10.000000
+trace 4.950000
+pop
+turn -51.813869
+trace 7.425000
+pop
+turn -57.977997
+trace 9.350000
+push
+turn 63.675190
+trace 4.950000
+pop
+push
+turn -10.000000
+trace 4.950000
+pop
+turn -40.707573
+trace 7.425000
+pop
+turn -43.603168
+trace 25.575001
+push
+turn 50.204933
+trace 20.625000
+push
+turn 56.653492
+trace 11.000000
+pop
+turn -35.169071
+trace 16.500000
+pop
+turn -73.444168
+trace 13.750000
+push
+turn 67.831810
+trace 7.150000
+pop
+push
+turn 10.000000
+trace 7.150000
+pop
+turn -47.299568
+trace 10.725000
+pop
+turn -36.029083
+trace 86.625000
+push
+turn 53.150578
+trace 70.950005
+push
+turn 66.285133
+trace 38.500000
+pop
+turn -40.655079
+trace 57.750000
+push
+turn 44.325237
+trace 47.025002
+push
+turn 70.080414
+trace 25.850000
+pop
+turn -53.370312
+trace 38.775002
+pop
+turn -68.462936
+trace 31.350000
+push
+turn 71.102783
+trace 17.050001
+pop
+push
+turn -10.000000
+trace 17.050001
+pop
+turn -46.390118
+trace 25.575001
+pop
+push
+turn -10.000000
+trace 47.299999
+push
+turn 55.418713
+trace 25.850000
+push
+turn 41.646931
+trace 20.625000
+push
+turn 55.407116
+trace 11.000000
+pop
+push
+turn -10.000000
+trace 11.000000
+pop
+turn -52.272255
+trace 16.500000
+pop
+push
+turn -10.000000
+trace 13.750000
+push
+turn 61.162296
+trace 7.150000
+pop
+push
+turn -10.000000
+trace 7.150000
+pop
+turn -41.175114
+trace 10.725000
+pop
+turn -67.137215
+trace 13.750000
+push
+turn 55.081181
+trace 7.150000
+pop
+turn -35.772118
+trace 10.725000
+pop
+turn -40.446335
+trace 38.775002
+push
+turn 41.106754
+trace 31.350000
+push
+turn 55.211800
+trace 17.050001
+pop
+turn -36.666309
+trace 25.575001
+pop
+push
+turn 10.000000
+trace 20.900000
+push
+turn 56.005280
+trace 11.000000
+pop
+push
+turn -10.000000
+trace 11.000000
+pop
+turn -53.057800
+trace 16.500000
+pop
+turn -70.582748
+trace 20.900000
+push
+turn 70.693230
+trace 11.000000
+pop
+push
+turn 10.000000
+trace 11.000000
+pop
+turn -45.708336
+trace 16.500000
+pop
+turn -59.041260
+trace 47.299999
+push
+turn 60.861996
+trace 25.850000
+push
+turn 50.145725
+trace 20.625000
+push
+turn 72.287514
+trace 11.000000
+pop
+push
+turn -10.000000
+trace 11.000000
+pop
+turn -48.478195
+trace 16.500000
+pop
+push
+turn 10.000000
+trace 13.750000
+push
+turn 67.261726
+trace 7.150000
+pop
+push
+turn 10.000000
+trace 7.150000
+pop
+turn -40.626392
+trace 10.725000
+pop
+turn -66.845451
+trace 13.750000
+push
+turn 66.222267
+trace 7.150000
+pop
+push
+turn -10.000000
+trace 7.150000
+pop
+turn -49.899746
+trace 10.725000
+pop
+turn -42.301857
+trace 38.775002
+push
+turn 41.052429
+trace 31.350000
+push
+turn 56.640675
+trace 17.050001
+pop
+push
+turn -10.000000
+trace 17.050001
+pop
+turn -41.076237
+trace 25.575001
+pop
+push
+turn -10.000000
+trace 20.900000
+push
+turn 69.115417
+trace 11.000000
+pop
+push
+turn -10.000000
+trace 11.000000
+pop
+turn -37.568439
+trace 16.500000
+pop
+turn -55.537735
+trace 20.900000
+push
+turn 57.345654
+trace 11.000000
+pop
+turn -50.612659
+trace 16.500000
+pop
+turn -49.535355
+trace 288.750000
+push
+turn 40.520798
+trace 237.600006
+push
+turn 60.193642
+trace 130.350006
+pop
+turn -40.910213
+trace 195.525009
+push
+turn 43.183231
+trace 160.875000
+push
+turn 71.165657
+trace 88.000000
+push
+turn 49.387035
+trace 72.599998
+push
+turn 71.224861
+trace 39.600002
+pop
+push
+turn -10.000000
+trace 39.600002
+pop
+turn -43.180180
+trace 59.400002
+pop
+push
+turn -10.000000
+trace 48.400002
+push
+turn 64.085358
+trace 26.400002
+pop
+push
+turn -10.000000
+trace 26.400002
+pop
+turn -54.569691
+trace 39.600002
+pop
+turn -62.893917
+trace 48.400002
+push
+turn 65.047913
+trace 26.400002
+pop
+push
+turn 10.000000
+trace 26.400002
+pop
+turn -54.113132
+trace 39.600002
+pop
+push
+turn -10.000000
+trace 88.000000
+push
+turn 48.351238
+trace 72.599998
+push
+turn 65.151680
+trace 39.600002
+pop
+push
+turn 10.000000
+trace 39.600002
+pop
+turn -44.660328
+trace 59.400002
+pop
+turn -68.756523
+trace 48.400002
+push
+turn 71.775414
+trace 26.400002
+pop
+push
+turn 10.000000
+trace 26.400002
+pop
+turn -50.430157
+trace 39.600002
+pop
+turn -54.555649
+trace 132.000000
+push
+turn 50.629139
+trace 108.900002
+push
+turn 70.919678
+trace 59.400002
+pop
+push
+turn -10.000000
+trace 59.400002
+pop
+turn -37.439651
+trace 89.099998
+pop
+turn -65.426346
+trace 72.599998
+push
+turn 56.535690
+trace 39.600002
+pop
+push
+turn 10.000000
+trace 39.600002
+pop
+turn -46.135593
+trace 59.400002
+pop
+push
+turn 10.000000
+trace 107.250000
+push
+turn 56.568653
+trace 58.850002
+push
+turn 54.647816
+trace 47.850002
+push
+turn 73.544876
+trace 25.850000
+pop
+turn -36.225014
+trace 38.775002
+pop
+push
+turn -10.000000
+trace 31.900002
+push
+turn 64.057892
+trace 17.050001
+pop
+push
+turn -10.000000
+trace 17.050001
+pop
+turn -40.456711
+trace 25.575001
+pop
+turn -57.165592
+trace 31.900002
+push
+turn 59.375134
+trace 17.050001
+pop
+push
+turn 10.000000
+trace 17.050001
+pop
+turn -43.153324
+trace 25.575001
+pop
+push
+turn -10.000000
+trace 58.850002
+push
+turn 51.982941
+trace 47.850002
+push
+turn 68.998230
+trace 25.850000
+pop
+turn -44.418621
+trace 38.775002
+pop
+turn -60.588551
+trace 31.900002
+push
+turn 55.073856
+trace 17.050001
+pop
+push
+turn 10.000000
+trace 17.050001
+pop
+turn -48.025909
+trace 25.575001
+pop
+turn -44.183018
+trace 88.275002
+push
+turn 51.623432
+trace 72.599998
+push
+turn 58.993652
+trace 39.600002
+pop
+push
+turn 10.000000
+trace 39.600002
+pop
+turn -52.191689
+trace 59.400002
+pop
+turn -71.037476
+trace 48.400002
+push
+turn 64.170815
+trace 26.400002
+pop
+push
+turn -10.000000
+trace 26.400002
+pop
+turn -44.125645
+trace 39.600002
+pop
+turn -64.107941
+trace 107.250000
+push
+turn 68.369545
+trace 58.850002
+push
+turn 49.264961
+trace 47.850002
+push
+turn 72.963196
+trace 25.850000
+pop
+push
+turn 10.000000
+trace 25.850000
+pop
+turn -54.486069
+trace 38.775002
+pop
+push
+turn -10.000000
+trace 31.900002
+push
+turn 62.198097
+trace 17.050001
+pop
+turn -49.993744
+trace 25.575001
+pop
+turn -66.103851
+trace 31.900002
+push
+turn 66.957764
+trace 17.050001
+pop
+push
+turn 10.000000
+trace 17.050001
+pop
+turn -43.673359
+trace 25.575001
+pop
+push
+turn 10.000000
+trace 58.850002
+push
+turn 39.672382
+trace 47.850002
+push
+turn 64.695122
+trace 25.850000
+pop
+turn -53.788414
+trace 38.775002
+pop
+push
+turn -10.000000
+trace 31.900002
+push
+turn 73.488113
+trace 17.050001
+pop
+turn -36.841488
+trace 25.575001
+pop
+turn -60.623951
+trace 31.900002
+push
+turn 64.796440
+trace 17.050001
+pop
+push
+turn -10.000000
+trace 17.050001
+pop
+turn -54.630726
+trace 25.575001
+pop
+turn -41.886806
+trace 88.275002
+push
+turn 35.946686
+trace 72.599998
+push
+turn 67.345955
+trace 39.600002
+pop
+turn -44.729301
+trace 59.400002
+pop
+push
+turn 10.000000
+trace 48.400002
+push
+turn 74.738762
+trace 26.400002
+pop
+push
+turn -10.000000
+trace 26.400002
+pop
+turn -41.811729
+trace 39.600002
+pop
+turn -60.496994
+trace 48.400002
+push
+turn 58.968018
+trace 26.400002
+pop
+push
+turn 10.000000
+trace 26.400002
+pop
+turn -40.045929
+trace 39.600002
+pop
+push
+turn 10.000000
+trace 158.400009
+push
+turn 59.538101
+trace 86.900002
+push
+turn 52.692192
+trace 70.950005
+push
+turn 69.745323
+trace 38.500000
+push
+turn 47.900784
+trace 31.350000
+push
+turn 68.227333
+trace 17.050001
+pop
+push
+turn 10.000000
+trace 17.050001
+pop
+turn -50.925167
+trace 25.575001
+pop
+push
+turn -10.000000
+trace 20.900000
+push
+turn 55.516373
+trace 11.000000
+pop
+turn -48.210243
+trace 16.500000
+pop
+turn -65.819420
+trace 20.900000
+push
+turn 56.321453
+trace 11.000000
+pop
+push
+turn -10.000000
+trace 11.000000
+pop
+turn -53.886684
+trace 16.500000
+pop
+push
+turn -10.000000
+trace 38.500000
+push
+turn 46.265602
+trace 31.350000
+push
+turn 63.062378
+trace 17.050001
+pop
+push
+turn -10.000000
+trace 17.050001
+pop
+turn -42.865841
+trace 25.575001
+pop
+push
+turn -10.000000
+trace 20.900000
+push
+turn 69.439529
+trace 11.000000
+pop
+push
+turn 10.000000
+trace 11.000000
+pop
+turn -42.732170
+trace 16.500000
+pop
+turn -56.274452
+trace 20.900000
+push
+turn 72.224037
+trace 11.000000
+pop
+push
+turn 10.000000
+trace 11.000000
+pop
+turn -40.312050
+trace 16.500000
+pop
+turn -41.653034
+trace 57.750000
+push
+turn 36.882381
+trace 47.025002
+push
+turn 66.099579
+trace 25.850000
+pop
+push
+turn 10.000000
+trace 25.850000
+pop
+turn -48.716240
+trace 38.775002
+pop
+push
+turn -10.000000
+trace 31.350000
+push
+turn 59.015015
+trace 17.050001
+pop
+turn -52.429119
+trace 25.575001
+pop
+turn -60.676441
+trace 31.350000
+push
+turn 60.390789
+trace 17.050001
+pop
+push
+turn -10.000000
+trace 17.050001
+pop
+turn -48.954895
+trace 25.575001
+pop
+push
+turn -10.000000
+trace 47.299999
+push
+turn 58.487045
+trace 25.850000
+push
+turn 50.859249
+trace 20.625000
+push
+turn 70.718254
+trace 11.000000
+pop
+push
+turn -10.000000
+trace 11.000000
+pop
+turn -53.460037
+trace 16.500000
+pop
+turn -70.115814
+trace 13.750000
+pop
+push
+turn 10.000000
+trace 25.850000
+push
+turn 54.519028
+trace 20.625000
+push
+turn 59.283577
+trace 11.000000
+pop
+turn -41.233101
+trace 16.500000
+pop
+push
+turn 10.000000
+trace 13.750000
+push
+turn 72.374794
+trace 7.150000
+pop
+push
+turn -10.000000
+trace 7.150000
+pop
+turn -35.608540
+trace 10.725000
+pop
+turn -58.866695
+trace 13.750000
+push
+turn 57.525101
+trace 7.150000
+pop
+push
+turn 10.000000
+trace 7.150000
+pop
+turn -36.966003
+trace 10.725000
+pop
+turn -52.116611
+trace 38.775002
+push
+turn 38.362530
+trace 31.350000
+push
+turn 73.626060
+trace 17.050001
+pop
+push
+turn -10.000000
+trace 17.050001
+pop
+turn -36.616871
+trace 25.575001
+pop
+push
+turn -10.000000
+trace 20.900000
+push
+turn 66.292458
+trace 11.000000
+pop
+turn -35.469376
+trace 16.500000
+pop
+turn -55.383923
+trace 20.900000
+push
+turn 58.341167
+trace 11.000000
+pop
+push
+turn -10.000000
+trace 11.000000
+pop
+turn -36.361126
+trace 16.500000
+pop
+turn -71.644188
+trace 47.299999
+push
+turn 58.222145
+trace 25.850000
+push
+turn 35.170902
+trace 20.625000
+push
+turn 60.441452
+trace 11.000000
+pop
+push
+turn -10.000000
+trace 11.000000
+pop
+turn -53.245186
+trace 16.500000
+pop
+push
+turn -10.000000
+trace 13.750000
+push
+turn 69.165474
+trace 7.150000
+pop
+push
+turn -10.000000
+trace 7.150000
+pop
+turn -37.465286
+trace 10.725000
+pop
+turn -74.696648
+trace 13.750000
+push
+turn 58.717766
+trace 7.150000
+pop
+push
+turn -10.000000
+trace 7.150000
+pop
+turn -43.388927
+trace 10.725000
+pop
+push
+turn -10.000000
+trace 25.850000
+push
+turn 42.091892
+trace 20.625000
+push
+turn 56.116367
+trace 11.000000
+pop
+push
+turn 10.000000
+trace 11.000000
+pop
+turn -39.152348
+trace 16.500000
+pop
+push
+turn 10.000000
+trace 13.750000
+push
+turn 70.059052
+trace 7.150000
+pop
+push
+turn -10.000000
+trace 7.150000
+pop
+turn -46.476181
+trace 10.725000
+pop
+turn -66.264992
+trace 13.750000
+push
+turn 59.887234
+trace 7.150000
+pop
+push
+turn 10.000000
+trace 7.150000
+pop
+turn -41.201973
+trace 10.725000
+pop
+turn -39.970245
+trace 38.775002
+push
+turn 47.096317
+trace 31.350000
+push
+turn 63.772240
+trace 17.050001
+pop
+push
+turn -10.000000
+trace 17.050001
+pop
+turn -54.139988
+trace 25.575001
+pop
+push
+turn -10.000000
+trace 20.900000
+push
+turn 67.283089
+trace 11.000000
+pop
+push
+turn 10.000000
+trace 11.000000
+pop
+turn -37.623981
+trace 16.500000
+pop
+turn -57.119205
+trace 20.900000
+push
+turn 57.467117
+trace 11.000000
+pop
+turn -35.316784
+trace 16.500000
+pop
+turn -48.207191
+trace 130.350006
+push
+turn 45.531937
+trace 107.250000
+push
+turn 59.807274
+trace 58.850002
+push
+turn 48.762627
+trace 47.850002
+push
+turn 71.877350
+trace 25.850000
+pop
+push
+turn 10.000000
+trace 25.850000
+pop
+turn -39.009521
+trace 38.775002
+pop
+push
+turn 10.000000
+trace 31.900002
+push
+turn 59.686420
+trace 17.050001
+pop
+push
+turn 10.000000
+trace 17.050001
+pop
+turn -40.047760
+trace 25.575001
+pop
+turn -61.176334
+trace 31.900002
+push
+turn 72.214882
+trace 17.050001
+pop
+push
+turn 10.000000
+trace 17.050001
+pop
+turn -47.190926
+trace 25.575001
+pop
+push
+turn 10.000000
+trace 58.850002
+push
+turn 51.862087
+trace 47.850002
+push
+turn 71.008789
+trace 25.850000
+pop
+push
+turn 10.000000
+trace 25.850000
+pop
+turn -37.750328
+trace 38.775002
+pop
+turn -64.118317
+trace 31.900002
+pop
+turn -54.013031
+trace 88.275002
+push
+turn 43.311409
+trace 72.599998
+push
+turn 73.641930
+trace 39.600002
+pop
+turn -38.645130
+trace 59.400002
+pop
+push
+turn -10.000000
+trace 48.400002
+push
+turn 72.477341
+trace 26.400002
+pop
+push
+turn -10.000000
+trace 26.400002
+pop
+turn -52.976013
+trace 39.600002
+pop
+turn -58.013397
+trace 48.400002
+push
+turn 70.746941
+trace 26.400002
+pop
+push
+turn -10.000000
+trace 26.400002
+pop
+turn -36.359295
+trace 39.600002
+pop
+push
+turn 10.000000
+trace 71.500000
+push
+turn 55.197762
+trace 39.049999
+push
+turn 37.364574
+trace 32.174999
+push
+turn 57.537918
+trace 17.600000
+pop
+push
+turn -10.000000
+trace 17.600000
+pop
+turn -45.235298
+trace 26.400002
+pop
+push
+turn -10.000000
+trace 21.450001
+push
+turn 73.415482
+trace 11.550000
+pop
+turn -51.363415
+trace 17.325001
+pop
+turn -71.432388
+trace 21.450001
+push
+turn 61.570026
+trace 11.550000
+pop
+push
+turn -10.000000
+trace 11.550000
+pop
+turn -48.676563
+trace 17.325001
+pop
+push
+turn -10.000000
+trace 39.049999
+push
+turn 46.559189
+trace 32.174999
+push
+turn 71.359749
+trace 17.600000
+pop
+turn -41.678059
+trace 26.400002
+pop
+push
+turn -10.000000
+trace 21.450001
+push
+turn 67.633446
+trace 11.550000
+pop
+push
+turn -10.000000
+trace 11.550000
+pop
+turn -49.681232
+trace 17.325001
+pop
+turn -66.926025
+trace 21.450001
+push
+turn 59.631489
+trace 11.550000
+pop
+push
+turn -10.000000
+trace 11.550000
+pop
+turn -42.177952
+trace 17.325001
+pop
+turn -42.389751
+trace 58.575001
+push
+turn 38.043915
+trace 47.850002
+push
+turn 60.449387
+trace 25.850000
+pop
+push
+turn -10.000000
+trace 25.850000
+pop
+turn -39.146854
+trace 38.775002
+pop
+turn -67.065186
+trace 31.900002
+push
+turn 61.486404
+trace 17.050001
+pop
+push
+turn 10.000000
+trace 17.050001
+pop
+turn -46.338848
+trace 25.575001
+pop
+turn -60.074619
+trace 71.500000
+push
+turn 70.021210
+trace 39.049999
+push
+turn 35.052490
+trace 32.174999
+pop
+turn -64.730522
+trace 21.450001
+push
+turn 58.087254
+trace 11.550000
+pop
+push
+turn 10.000000
+trace 11.550000
+pop
+turn -54.911495
+trace 17.325001
+pop
+turn -49.721519
+trace 58.575001
+push
+turn 38.580433
+trace 47.850002
+push
+turn 71.340218
+trace 25.850000
+pop
+turn -50.378277
+trace 38.775002
+pop
+push
+turn 10.000000
+trace 31.900002
+push
+turn 62.177952
+trace 17.050001
+pop
+turn -38.693352
+trace 25.575001
+pop
+turn -73.994110
+trace 31.900002
+push
+turn 74.942627
+trace 17.050001
+pop
+push
+turn 10.000000
+trace 17.050001
+pop
+turn -43.365734
+trace 25.575001
+pop
+turn -73.673058
+trace 158.400009
+push
+turn 64.479050
+trace 86.900002
+push
+turn 51.177860
+trace 70.950005
+push
+turn 61.194649
+trace 38.500000
+pop
+turn -48.193764
+trace 57.750000
+push
+turn 52.457199
+trace 47.025002
+push
+turn 58.570057
+trace 25.850000
+pop
+push
+turn -10.000000
+trace 25.850000
+pop
+turn -50.060272
+trace 38.775002
+pop
+push
+turn 10.000000
+trace 31.350000
+push
+turn 55.986969
+trace 17.050001
+pop
+push
+turn -10.000000
+trace 17.050001
+pop
+turn -36.459396
+trace 25.575001
+pop
+turn -66.791130
+trace 31.350000
+push
+turn 67.491837
+trace 17.050001
+pop
+push
+turn 10.000000
+trace 17.050001
+pop
+turn -47.505875
+trace 25.575001
+pop
+push
+turn 10.000000
+trace 47.299999
+push
+turn 72.199623
+trace 25.850000
+push
+turn 54.319439
+trace 20.625000
+push
+turn 55.169071
+trace 11.000000
+pop
+turn -44.457077
+trace 16.500000
+pop
+turn -55.563374
+trace 13.750000
+push
+turn 57.102726
+trace 7.150000
+pop
+push
+turn -10.000000
+trace 7.150000
+pop
+turn -48.015533
+trace 10.725000
+pop
+push
+turn 10.000000
+trace 25.850000
+push
+turn 40.076450
+trace 20.625000
+push
+turn 72.283852
+trace 11.000000
+pop
+push
+turn -10.000000
+trace 11.000000
+pop
+turn -37.723473
+trace 16.500000
+pop
+turn -55.839870
+trace 13.750000
+push
+turn 71.510513
+trace 7.150000
+pop
+push
+turn -10.000000
+trace 7.150000
+pop
+turn -38.283791
+trace 10.725000
+pop
+turn -36.953796
+trace 38.775002
+push
+turn 42.102879
+trace 31.350000
+push
+turn 72.505417
+trace 17.050001
+pop
+push
+turn 10.000000
+trace 17.050001
+pop
+turn -51.481827
+trace 25.575001
+pop
+push
+turn -10.000000
+trace 20.900000
+push
+turn 65.366524
+trace 11.000000
+pop
+push
+turn 10.000000
+trace 11.000000
+pop
+turn -36.909237
+trace 16.500000
+pop
+turn -56.960510
+trace 20.900000
+push
+turn 62.257301
+trace 11.000000
+pop
+turn -53.642536
+trace 16.500000
+pop
+turn -71.670433
+trace 47.299999
+push
+turn 68.050323
+trace 25.850000
+push
+turn 36.408123
+trace 20.625000
+push
+turn 62.177341
+trace 11.000000
+pop
+turn -53.350170
+trace 16.500000
+pop
+push
+turn 10.000000
+trace 13.750000
+push
+turn 56.029083
+trace 7.150000
+pop
+push
+turn 10.000000
+trace 7.150000
+pop
+turn -52.022003
+trace 10.725000
+pop
+turn -58.648792
+trace 13.750000
+push
+turn 59.795067
+trace 7.150000
+pop
+turn -36.555832
+trace 10.725000
+pop
+push
+turn 10.000000
+trace 25.850000
+push
+turn 41.302681
+trace 20.625000
+push
+turn 65.674767
+trace 11.000000
+pop
+turn -41.537064
+trace 16.500000
+pop
+push
+turn -10.000000
+trace 13.750000
+push
+turn 68.353065
+trace 7.150000
+pop
+push
+turn -10.000000
+trace 7.150000
+pop
+turn -42.862789
+trace 10.725000
+pop
+turn -72.195351
+trace 13.750000
+push
+turn 68.893250
+trace 7.150000
+pop
+push
+turn 10.000000
+trace 7.150000
+pop
+turn -39.417248
+trace 10.725000
+pop
+turn -54.696648
+trace 38.775002
+push
+turn 41.497391
+trace 31.350000
+push
+turn 59.854275
+trace 17.050001
+pop
+push
+turn 10.000000
+trace 17.050001
+pop
+turn -43.154545
+trace 25.575001
+pop
+push
+turn 10.000000
+trace 20.900000
+push
+turn 68.947571
+trace 11.000000
+pop
+push
+turn -10.000000
+trace 11.000000
+pop
+turn -54.462265
+trace 16.500000
+pop
+turn -74.666740
+trace 20.900000
+push
+turn 60.612965
+trace 11.000000
+pop
+push
+turn -10.000000
+trace 11.000000
+pop
+turn -47.106083
+trace 16.500000
+pop
+push
+turn 10.000000
+trace 86.900002
+push
+turn 38.312477
+trace 70.950005
+push
+turn 71.821190
+trace 38.500000
+push
+turn 35.375988
+trace 31.350000
+push
+turn 61.648762
+trace 17.050001
+pop
+turn -41.243477
+trace 25.575001
+pop
+push
+turn 10.000000
+trace 20.900000
+push
+turn 59.370861
+trace 11.000000
+pop
+turn -44.573658
+trace 16.500000
+pop
+turn -69.430984
+trace 20.900000
+push
+turn 55.352184
+trace 11.000000
+pop
+push
+turn -10.000000
+trace 11.000000
+pop
+turn -52.834408
+trace 16.500000
+pop
+push
+turn -10.000000
+trace 38.500000
+push
+turn 35.095219
+trace 31.350000
+push
+turn 58.017059
+trace 17.050001
+pop
+turn -49.411449
+trace 25.575001
+pop
+turn -56.939758
+trace 20.900000
+push
+turn 58.376568
+trace 11.000000
+pop
+turn -38.962524
+trace 16.500000
+pop
+turn -52.352825
+trace 57.750000
+push
+turn 50.922726
+trace 47.025002
+push
+turn 60.735039
+trace 25.850000
+pop
+push
+turn -10.000000
+trace 25.850000
+pop
+turn -43.896145
+trace 38.775002
+pop
+push
+turn 10.000000
+trace 31.350000
+push
+turn 70.327614
+trace 17.050001
+pop
+push
+turn -10.000000
+trace 17.050001
+pop
+turn -49.376049
+trace 25.575001
+pop
+turn -61.432690
+trace 31.350000
+push
+turn 74.053314
+trace 17.050001
+pop
+push
+turn 10.000000
+trace 17.050001
+pop
+turn -49.503006
+trace 25.575001
+pop
+turn -55.868557
+trace 47.299999
+pop
+turn -40.620289
+trace 130.350006
+push
+turn 35.163578
+trace 107.250000
+push
+turn 70.026703
+trace 58.850002
+push
+turn 44.756157
+trace 47.850002
+push
+turn 62.099216
+trace 25.850000
+pop
+push
+turn -10.000000
+trace 25.850000
+pop
+turn -44.180576
+trace 38.775002
+pop
+push
+turn -10.000000
+trace 31.900002
+push
+turn 63.734398
+trace 17.050001
+pop
+push
+turn -10.000000
+trace 17.050001
+pop
+turn -53.725548
+trace 25.575001
+pop
+turn -74.274269
+trace 31.900002
+push
+turn 73.117615
+trace 17.050001
+pop
+push
+turn -10.000000
+trace 17.050001
+pop
+turn -49.323559
+trace 25.575001
+pop
+push
+turn -10.000000
+trace 58.850002
+push
+turn 45.368359
+trace 47.850002
+push
+turn 59.140751
+trace 25.850000
+pop
+turn -39.884182
+trace 38.775002
+pop
+push
+turn -10.000000
+trace 31.900002
+push
+turn 55.480972
+trace 17.050001
+pop
+push
+turn 10.000000
+trace 17.050001
+pop
+turn -51.133305
+trace 25.575001
+pop
+turn -72.115997
+trace 31.900002
+push
+turn 71.637474
+trace 17.050001
+pop
+push
+turn -10.000000
+trace 17.050001
+pop
+turn -54.616077
+trace 25.575001
+pop
+turn -52.822811
+trace 88.275002
+push
+turn 52.582935
+trace 72.599998
+push
+turn 74.829094
+trace 39.600002
+pop
+push
+turn -10.000000
+trace 39.600002
+pop
+turn -35.303352
+trace 59.400002
+pop
+push
+turn 10.000000
+trace 48.400002
+push
+turn 67.908112
+trace 26.400002
+pop
+push
+turn 10.000000
+trace 26.400002
+pop
+turn -43.735008
+trace 39.600002
+pop
+turn -58.729362
+trace 48.400002
+push
+turn 62.903683
+trace 26.400002
+pop
+push
+turn -10.000000
+trace 26.400002
+pop
+turn -52.880795
+trace 39.600002
+pop
+push
+turn -10.000000
+trace 71.500000
+push
+turn 72.441940
+trace 39.049999
+push
+turn 47.695702
+trace 32.174999
+push
+turn 61.237373
+trace 17.600000
+pop
+push
+turn 10.000000
+trace 17.600000
+pop
+turn -48.823666
+trace 26.400002
+pop
+push
+turn -10.000000
+trace 21.450001
+push
+turn 58.137913
+trace 11.550000
+pop
+turn -45.881680
+trace 17.325001
+pop
+turn -71.085693
+trace 21.450001
+push
+turn 66.688591
+trace 11.550000
+pop
+push
+turn -10.000000
+trace 11.550000
+pop
+turn -51.986603
+trace 17.325001
+pop
+turn -50.629749
+trace 58.575001
+push
+turn 39.822536
+trace 47.850002
+push
+turn 72.635429
+trace 25.850000
+pop
+push
+turn -10.000000
+trace 25.850000
+pop
+turn -38.567616
+trace 38.775002
+pop
+push
+turn -10.000000
+trace 31.900002
+push
+turn 63.440811
+trace 17.050001
+pop
+push
+turn -10.000000
+trace 17.050001
+pop
+turn -43.073978
+trace 25.575001
+pop
+turn -57.487869
+trace 31.900002
+push
+turn 71.956085
+trace 17.050001
+pop
+turn -42.934811
+trace 25.575001
+pop
+turn -74.755852
+trace 71.500000
+push
+turn 63.661762
+trace 39.049999
+push
+turn 37.185123
+trace 32.174999
+push
+turn 74.947510
+trace 17.600000
+pop
+turn -45.269478
+trace 26.400002
+pop
+push
+turn 10.000000
+trace 21.450001
+push
+turn 71.419571
+trace 11.550000
+pop
+push
+turn 10.000000
+trace 11.550000
+pop
+turn -36.005890
+trace 17.325001
+pop
+turn -68.843193
+trace 21.450001
+push
+turn 57.542801
+trace 11.550000
+pop
+push
+turn 10.000000
+trace 11.550000
+pop
+turn -43.208870
+trace 17.325001
+pop
+push
+turn -10.000000
+trace 39.049999
+push
+turn 47.931301
+trace 32.174999
+pop
+turn -64.868462
+trace 21.450001
+push
+turn 55.680561
+trace 11.550000
+pop
+turn -54.436626
+trace 17.325001
+pop
+turn -48.044830
+trace 58.575001
+push
+turn 53.657795
+trace 47.850002
+push
+turn 69.923553
+trace 25.850000
+pop
+turn -54.160130
+trace 38.775002
+pop
+turn -55.844143
+trace 31.900002
+push
+turn 67.897125
+trace 17.050001
+pop
+push
+turn -10.000000
+trace 17.050001
+pop
+turn -53.039490
+trace 25.575001

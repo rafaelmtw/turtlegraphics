@@ -1,0 +1,39 @@
+-800 800 0 1600
+turn 90.000000
+trace 350.000000
+push
+turn 68.684502
+trace 192.500000
+push
+turn 41.286812
+trace 158.400009
+pop
+push
+turn 10.000000
+trace 105.600006
+pop
+turn -57.564777
+trace 105.600006
+pop
+push
+turn 10.000000
+trace 192.500000
+push
+turn 49.592731
+trace 158.400009
+pop
+turn -58.293556
+trace 105.600006
+pop
+turn -49.535355
+trace 288.750000
+push
+turn 40.520798
+trace 237.600006
+pop
+push
+turn 10.000000
+trace 158.400009
+pop
+turn -73.673058
+trace 158.400009
