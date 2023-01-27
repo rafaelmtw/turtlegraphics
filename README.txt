@@ -1,2 +1,2 @@
-Turtle graphics, the structure is based on HelloOpenGL1.
-created by Rafael Matthew Susanto Kwan.
+Turtle graphics using C++ and OpenGl.
+Created by Rafael Matthew Susanto Kwan.
